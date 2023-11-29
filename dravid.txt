@@ -3,5 +3,3 @@ this is dravid
 
 thoda aur dravid
 
-
-this feature was developed in hangover 
